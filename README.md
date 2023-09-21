@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C,HTML,CSS,Bootstrap,Java.**
 
-- 📫 How to reach me **priyanshu1231.cse19@chitkara.edu.in**
+- 📫 How to reach me **salujaps706@gmail.com**
 
 - ⚡ Fun fact **I am an Artist also.**
 
