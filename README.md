@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Saluja</h1>
-<h3 align="center">A passionate Frontend developer from India graduatqed in B.E.(Computer Science) from Chitkara University,Punjab.</h3>
+<h3 align="center">A passionate Frontend developer from India graduated in B.E.(Computer Science) from Chitkara University,Punjab.</h3>
 
 - 🔭 I’m currently working on **Web Develoment projects.**
 
